@@ -33,3 +33,7 @@ Additionally, slicers for marital status, region, and education were added to en
 
 CONCLUSION:
 This project provides insights into bike buyers' purchasing behavior, emphasizing the influence of factors like gender, age, and commute distance. The dynamic dashboard enhances user interaction, making data exploration more intuitive and informative.
+
+
+
+![Bike Sales Dashboard](https://github.com/ShaikhMdRehan2209/NUMPY/assets/155943248/9575b349-5aca-43ef-970c-3d5d0089aaab)
